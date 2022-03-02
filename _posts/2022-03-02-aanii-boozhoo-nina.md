@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Hello All
 Date: 2022-03-02
 ---
