@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Jekyll true minimal theme"
+title:  "Aanii Boozhoo"
 date:   2018-01-01 23:22:40 +0300
 ---
 
