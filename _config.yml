@@ -1,8 +1,8 @@
 name: "Gagnoozh: A commentary"
 description: "An Anishnabek view of climate change"
 
-url: 'https://taytab.github.io/gaganoozh/' 
-baseurl: 'https://taytab.github.io/gaganoozh/'
+url: 'Gaganoozh' 
+baseurl: 'Gaganoozh'
 
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
