@@ -2,7 +2,7 @@ name: "Jekyll true minimal theme"
 description: "Lightweight theme"
 
 url: 'https://taytab.github.io/gaganoozh/' 
-baseurl: ''
+baseurl: 'https://taytab.github.io/gaganoozh/'
 
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
